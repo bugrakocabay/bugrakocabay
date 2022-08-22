@@ -25,7 +25,7 @@
 
 ### :alien: About Me :
 I am a Backend Developor from Izmir, Turkey.
-- :man_technologist: Currently learning Node.js, SQL, Javascript etc.
+- :man_technologist: Currently learning Node.js, SQL, Vanilla Javascript etc.
 - :black_nib: Just started writing articles/blogs on [Medium](https://medium.com/@kocabaybugra)!
 - :clock3: On my free-time I like to solve problems on Leetcode and Hackerrank.
 - :email: How you can reach me kocabaybugra@gmail.com
