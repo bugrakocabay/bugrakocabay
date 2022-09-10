@@ -17,11 +17,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/2c07pca6jSiD6/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 ### :alien: About Me :
 I am a Backend Developor from Izmir, Turkey.
