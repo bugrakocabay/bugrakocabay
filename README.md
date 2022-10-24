@@ -1,5 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
+
+### :alien: About Me :
+I am a Backend Developor from Izmir, Turkey.
+- :man_technologist: Currently learning Node.js, Typecript, SQL and MongoDB etc.
+- :black_nib: Just started writing articles/blogs on [Medium](https://medium.com/@kocabaybugra)!
+- :clock3: On my free-time I like to solve problems on Leetcode and Hackerrank.
+- :email: How you can reach me kocabaybugra@gmail.com
+
+Reach me here:
+<div id="header" >
    <div id="badges">
     <a href="https://www.linkedin.com/in/bugrakocabay/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,19 +19,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <h1>
-    hello world
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
-
-
-### :alien: About Me :
-I am a Backend Developor from Izmir, Turkey.
-- :man_technologist: Currently learning Node.js, Typecript, SQL and MongoDB etc.
-- :black_nib: Just started writing articles/blogs on [Medium](https://medium.com/@kocabaybugra)!
-- :clock3: On my free-time I like to solve problems on Leetcode and Hackerrank.
-- :email: How you can reach me kocabaybugra@gmail.com
 
 ---
 
