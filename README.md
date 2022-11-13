@@ -38,13 +38,3 @@ Reach me here:
    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="jest" alt="jest" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bugrakocabay&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrakocabay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
