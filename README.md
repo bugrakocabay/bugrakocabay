@@ -1,7 +1,7 @@
 
 ### :alien: About Me :
 I am a Backend Developor from Izmir, Turkey.
-- :man_technologist: Currently learning Node.js, Typecript, SQL and MongoDB etc.
+- :man_technologist: Currently learning Typecript and GO etc.
 - :black_nib: Just started writing articles/blogs on [Medium](https://medium.com/@kocabaybugra)!
 - :clock3: On my free-time I like to solve problems on Leetcode and Hackerrank.
 - :email: How you can reach me kocabaybugra@gmail.com
@@ -36,5 +36,6 @@ Reach me here:
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="jest" alt="jest" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="jest" alt="jest" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="jest" alt="jest" width="40" height="40"/>
 </div>
 
