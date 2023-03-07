@@ -3,7 +3,7 @@
     "info": {
         "name": "bugra",
         "surname": "kocabay",
-        "position": "backend developer",
+        "position": "backend-developer",
         "city": "izmir",
         "country": "turkey"
     },
