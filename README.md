@@ -8,7 +8,7 @@
         "country": "turkey"
     },
     "links": {
-        "linkedin": "https://www.linkedin.com/in/bugrakocabay/",
+        "linkedin": "https://www.linkedin.com/in/bugrakocabay",
         "medium": "https://medium.com/@kocabaybugra"
     }
 }
