@@ -5,7 +5,19 @@
         "surname": "kocabay",
         "position": "backend-developer",
         "city": "izmir",
-        "country": "turkey"
+        "country": "turkey",
+        "tech-stack": [
+            "nodejs",
+            "golang",
+            "typescript",
+            "postgresql",
+            "mongodb",
+            "redis",
+            "docker",
+            "aws",
+            "gcp",
+            "rabbitmq"
+        ]
     },
     "links": {
         "linkedin": "https://www.linkedin.com/in/bugrakocabay",
